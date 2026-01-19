@@ -70,10 +70,6 @@
                     "operator": "eq",
                     "value": "Trying version getter: PythonVersionFile"
                },
-              {
-                    "operator": "eq",
-                    "value": "Trying to obtain version from 8 optional sources ..."
-                },
                {
                     "operator": "regex",
                     "value": "Found Python version \\(3\\.10\\.0\\) for Pip project at \"/.*pipenv_basic_sanity.*\""
